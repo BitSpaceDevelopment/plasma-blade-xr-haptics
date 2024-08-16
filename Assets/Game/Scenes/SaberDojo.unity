@@ -4470,7 +4470,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7007057062819892113, guid: 6336de5931096807f9ff6db739aea8f7, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4733,7 +4733,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3967110243717830693, guid: b18489404b7bf083ba8b6806c18fed73, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550371541124749068, guid: b18489404b7bf083ba8b6806c18fed73, type: 3}
+      propertyPath: m_text
+      value: 'Robots Destroyed: 4020'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4550371541124749068, guid: b18489404b7bf083ba8b6806c18fed73, type: 3}
+      propertyPath: m_margin.x
+      value: -0.030172467
       objectReference: {fileID: 0}
     - target: {fileID: 4801587293303066981, guid: b18489404b7bf083ba8b6806c18fed73, type: 3}
       propertyPath: height
